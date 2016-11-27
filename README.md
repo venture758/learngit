@@ -1,2 +1,2 @@
-hello
-GIT is A shit
+t is a distributeded version control system.
+Git is free software.
